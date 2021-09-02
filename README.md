@@ -6,7 +6,7 @@ Phonebook using linked list and file handling in c++. Linked list is used here t
 4. display contacts
 5. Displays the newly modified contacts
 
-## Screenshots
+## Demo
 
 
 
