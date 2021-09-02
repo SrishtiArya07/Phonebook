@@ -1,5 +1,5 @@
 # Phonebook
-Phonebook in c++ by using linked list. It contains features such as:
+Phonebook using linked list and file handling in c++. It contains features such as:
 1. Save new contacts
 2. Delete any contact
 3. Search and modify contacts
