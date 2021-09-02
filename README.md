@@ -1,9 +1,10 @@
 # Phonebook
-Phonebook using linked list and file handling in c++. It contains features such as:
+Phonebook using linked list and file handling in c++. Linked list is used here to make the traversal and modification of data efficiently. The details of the contacts are saved and handled using a text file. The Phonebook contains the features such as:
 1. Save new contacts
 2. Delete any contact
 3. Search and modify contacts
 4. display contacts
+5. Displays the newly modified contacts
 
 ## Screenshots
 
