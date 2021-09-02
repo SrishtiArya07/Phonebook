@@ -8,10 +8,8 @@ Phonebook using linked list and file handling in c++. Linked list is used here t
 
 ## Screenshots
 
-![ss1](https://user-images.githubusercontent.com/68293763/131761429-2d3b52f2-c519-482b-b97e-9c9510b57a16.jpg)
 
-![ss2](https://user-images.githubusercontent.com/68293763/131761442-c28395fe-f6ff-41ea-87cc-fbb4ba065f93.jpg)
 
-![ss3](https://user-images.githubusercontent.com/68293763/131761459-d630432a-e412-40c9-957e-1f441693942f.jpg)
+https://user-images.githubusercontent.com/68293763/131805938-aafe527b-912a-40ab-9b15-8f9e9b6f1f46.mp4
 
-![ss4](https://user-images.githubusercontent.com/68293763/131761475-62547f19-f986-4a67-8c8f-77c7fcc1ee06.jpg)
+
